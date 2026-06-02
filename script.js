@@ -2,6 +2,7 @@ const header = document.querySelector("[data-header]");
 const menuToggle = document.querySelector("[data-menu-toggle]");
 const nav = document.querySelector("[data-nav]");
 const revealItems = document.querySelectorAll(".reveal");
+const configuredLinks = window.links || {};
 
 // Keep the fixed header quiet at the top and more legible while scrolling.
 function updateHeader() {
@@ -47,3 +48,10 @@ const observer = new IntersectionObserver(
 );
 
 revealItems.forEach((item) => observer.observe(item));
+
+document.querySelectorAll("[data-link]").forEach((item) => {
+  const key = item.getAttribute("data-link");
+  if (configuredLinks[key]) {
+    item.setAttribute("href", configuredLinks[key]);
+  }
+});
