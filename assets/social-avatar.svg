@@ -1,0 +1,21 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">阿宝社交媒体头像</title>
+  <desc id="desc">适合社交媒体头像使用的阿宝圆形品牌标识。</desc>
+  <rect width="1024" height="1024" rx="220" fill="#0B1F5F"/>
+  <circle cx="312" cy="296" r="132" fill="#071443"/>
+  <circle cx="712" cy="296" r="132" fill="#071443"/>
+  <circle cx="512" cy="512" r="342" fill="#FFFFFF"/>
+  <path d="M340 458C340 392 394 338 460 338H476V650H340V458Z" fill="#0B1F5F"/>
+  <path d="M548 338H564C630 338 684 392 684 458V650H548V338Z" fill="#0B1F5F"/>
+  <circle cx="390" cy="478" r="94" stroke="#F5B942" stroke-width="34"/>
+  <circle cx="624" cy="478" r="94" stroke="#F5B942" stroke-width="34"/>
+  <path d="M486 478H534" stroke="#F5B942" stroke-width="30" stroke-linecap="round"/>
+  <circle cx="418" cy="470" r="24" fill="#FFFFFF"/>
+  <circle cx="596" cy="470" r="24" fill="#FFFFFF"/>
+  <ellipse cx="512" cy="592" rx="45" ry="38" fill="#0B1F5F"/>
+  <path d="M416 690C454 730 570 730 610 690" stroke="#0B1F5F" stroke-width="38" stroke-linecap="round"/>
+  <path d="M354 800H642C684 800 718 834 718 876V902H286V876C286 834 320 800 354 800Z" fill="#FFFFFF"/>
+  <path d="M682 784C740 758 804 782 830 830C850 868 836 914 798 936C748 966 690 928 682 872" stroke="#7A3F2A" stroke-width="42" stroke-linecap="round"/>
+  <path d="M320 796C272 752 278 700 330 676C380 652 452 666 488 706" stroke="#7A3F2A" stroke-width="42" stroke-linecap="round"/>
+  <path d="M402 776C452 732 590 732 638 776" stroke="#F5B942" stroke-width="28" stroke-linecap="round"/>
+</svg>

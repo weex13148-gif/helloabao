@@ -1,0 +1,21 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">阿宝 Abao 品牌 Logo</title>
+  <desc id="desc">极简熊猫圆脸，金色圆眼镜与紫砂壶元素，代表AI时代知识学院院长阿宝。</desc>
+  <rect width="320" height="320" rx="72" fill="#FFFFFF"/>
+  <circle cx="88" cy="92" r="42" fill="#0B1F5F"/>
+  <circle cx="232" cy="92" r="42" fill="#0B1F5F"/>
+  <circle cx="160" cy="158" r="108" fill="#FFFFFF" stroke="#0B1F5F" stroke-width="18"/>
+  <path d="M112 142C112 122 128 106 148 106H152V190H112V142Z" fill="#0B1F5F"/>
+  <path d="M168 106H172C192 106 208 122 208 142V190H168V106Z" fill="#0B1F5F"/>
+  <circle cx="124" cy="146" r="30" stroke="#F5B942" stroke-width="12"/>
+  <circle cx="196" cy="146" r="30" stroke="#F5B942" stroke-width="12"/>
+  <path d="M154 146H166" stroke="#F5B942" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="132" cy="144" r="8" fill="#FFFFFF"/>
+  <circle cx="188" cy="144" r="8" fill="#FFFFFF"/>
+  <path d="M143 181C143 172 150 165 160 165C170 165 177 172 177 181C177 190 170 197 160 197C150 197 143 190 143 181Z" fill="#0B1F5F"/>
+  <path d="M132 214C146 228 174 228 188 214" stroke="#0B1F5F" stroke-width="12" stroke-linecap="round"/>
+  <path d="M112 238H204C216 238 225 247 225 259V266H92V258C92 247 101 238 112 238Z" fill="#0B1F5F"/>
+  <path d="M213 235C228 229 241 233 249 244C256 254 253 267 242 273C230 279 215 272 213 258" stroke="#7A3F2A" stroke-width="12" stroke-linecap="round"/>
+  <path d="M97 239C85 229 84 215 98 207C111 199 132 202 142 214" stroke="#7A3F2A" stroke-width="12" stroke-linecap="round"/>
+  <path d="M128 232C140 220 180 220 192 232" stroke="#F5B942" stroke-width="8" stroke-linecap="round"/>
+</svg>

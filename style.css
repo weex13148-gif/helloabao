@@ -58,81 +58,13 @@ a {
 .brand {
   display: inline-flex;
   align-items: center;
-  gap: 12px;
-  font-weight: 800;
-  color: var(--blue);
+  flex: 0 0 auto;
 }
 
-.brand-mark {
-  position: relative;
-  display: inline-grid;
-  place-items: center;
-  width: 42px;
-  height: 42px;
-}
-
-.ear,
-.face {
-  position: absolute;
-  background: var(--blue);
-}
-
-.ear {
-  width: 18px;
-  height: 18px;
-  top: 2px;
-  border-radius: 50%;
-}
-
-.ear-left {
-  left: 3px;
-}
-
-.ear-right {
-  right: 3px;
-}
-
-.face {
-  bottom: 2px;
-  width: 34px;
-  height: 34px;
-  background: var(--white);
-  border: 3px solid var(--blue);
-  border-radius: 50%;
-}
-
-.eye,
-.nose {
-  position: absolute;
-  background: var(--blue);
-}
-
-.eye {
-  top: 12px;
-  width: 8px;
-  height: 9px;
-  border-radius: 50%;
-}
-
-.eye-left {
-  left: 8px;
-}
-
-.eye-right {
-  right: 8px;
-}
-
-.nose {
-  left: 50%;
-  bottom: 8px;
-  width: 8px;
-  height: 6px;
-  border-radius: 50%;
-  transform: translateX(-50%);
-}
-
-.brand-text {
-  font-size: 20px;
+.brand-logo {
+  display: block;
+  width: 184px;
+  height: 48px;
 }
 
 .site-nav {
@@ -890,8 +822,9 @@ h1 {
 }
 
 @media (max-width: 375px) {
-  .brand-text {
-    font-size: 18px;
+  .brand-logo {
+    width: 156px;
+    height: auto;
   }
 
   h1 {
