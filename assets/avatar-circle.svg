@@ -1,0 +1,20 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">阿宝圆形头像 Logo</title><desc id="desc">圆形头像版阿宝 Logo，适合社交媒体头像。</desc>
+  <circle cx="320" cy="320" r="308" fill="#102A43"/><circle cx="320" cy="320" r="294" stroke="#D9A441" stroke-width="12"/>
+  <path d="M95 533c72-108 170-164 294-148 104 13 190 73 228 148v126H95V533Z" fill="#111820"/>
+  <path d="M318 407c20 72 18 138-5 206" stroke="#D9A441" stroke-width="17" stroke-linecap="round"/>
+  <path d="M142 496c90 53 212 65 365 18" stroke="#D9A441" stroke-width="12" stroke-linecap="round"/>
+  <path d="M102 432c32-48 82-72 150-72" stroke="#4F7D45" stroke-width="17" stroke-linecap="round"/>
+  <path d="M462 432c34-58 126-52 150 10 20 51-20 100-78 96-48-3-83-39-88-91" fill="#7A3F2A"/>
+  <path d="M504 398c30-18 74-16 101 3" stroke="#D9A441" stroke-width="14" stroke-linecap="round"/>
+  <path d="M590 460c36-8 56 20 41 48-13 24-46 28-70 8" stroke="#7A3F2A" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="197" cy="176" r="76" fill="#071421"/><circle cx="435" cy="176" r="76" fill="#071421"/>
+  <circle cx="320" cy="286" r="188" fill="#FFFDF6"/>
+  <path d="M174 282c0-69 56-124 124-124h16v214H174V282Z" fill="#101820"/><path d="M338 158h16c68 0 124 55 124 124v90H338V158Z" fill="#101820"/>
+  <circle cx="236" cy="280" r="64" fill="#FFFDF6" stroke="#D9A441" stroke-width="19"/><circle cx="402" cy="280" r="64" fill="#FFFDF6" stroke="#D9A441" stroke-width="19"/>
+  <path d="M300 280h42" stroke="#D9A441" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="244" cy="276" r="32" fill="#101820"/><circle cx="410" cy="276" r="32" fill="#101820"/>
+  <circle cx="255" cy="264" r="12" fill="#FFFFFF"/><circle cx="421" cy="264" r="12" fill="#FFFFFF"/>
+  <path d="M202 216c19-18 42-25 68-20" stroke="#101820" stroke-width="12" stroke-linecap="round"/><path d="M368 197c30-8 56-2 80 20" stroke="#101820" stroke-width="12" stroke-linecap="round"/>
+  <ellipse cx="322" cy="348" rx="34" ry="27" fill="#102A43"/><path d="M274 390c30 34 74 34 104 0" stroke="#102A43" stroke-width="16" stroke-linecap="round"/>
+</svg>

@@ -1,26 +1,48 @@
-<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">阿宝 Abao 国潮品牌 Logo</title>
-  <desc id="desc">国潮卡通阿宝头像，金色圆眼镜、黑金中式长衫与竹紫砂壶元素。</desc>
-  <rect width="320" height="320" rx="76" fill="#F7F1E3"/>
-  <path d="M42 244C88 210 130 210 162 244C196 210 238 210 278 244" stroke="#D9A441" stroke-width="7" stroke-linecap="round" opacity=".34"/>
-  <circle cx="88" cy="92" r="42" fill="#102A43"/>
-  <circle cx="232" cy="92" r="42" fill="#102A43"/>
-  <circle cx="160" cy="150" r="108" fill="#FFFDF6" stroke="#102A43" stroke-width="18"/>
-  <path d="M96 146c0-30 23-54 52-54h8v108H96v-54Z" fill="#102A43"/>
-  <path d="M164 92h8c29 0 52 24 52 54v54h-60V92Z" fill="#102A43"/>
-  <circle cx="120" cy="142" r="31" stroke="#D9A441" stroke-width="12"/>
-  <circle cx="200" cy="142" r="31" stroke="#D9A441" stroke-width="12"/>
-  <path d="M151 142h18" stroke="#D9A441" stroke-width="10" stroke-linecap="round"/>
-  <circle cx="130" cy="140" r="8" fill="#FFFDF6"/>
-  <circle cx="190" cy="140" r="8" fill="#FFFDF6"/>
-  <ellipse cx="160" cy="178" rx="26" ry="20" fill="#102A43"/>
-  <path d="M132 211c16 17 41 17 57 0" stroke="#102A43" stroke-width="11" stroke-linecap="round"/>
-  <path d="M94 238h132c18 0 33 15 33 33v16H61v-16c0-18 15-33 33-33Z" fill="#172126"/>
-  <path d="M160 237c7 24 7 50 0 78" stroke="#D9A441" stroke-width="10" stroke-linecap="round"/>
-  <path d="M108 265c28 20 67 25 109 9" stroke="#D9A441" stroke-width="7" stroke-linecap="round" opacity=".8"/>
-  <path d="M69 255c-13-25-3-45 24-47 22-2 43 10 51 30" stroke="#4F7D45" stroke-width="10" stroke-linecap="round"/>
-  <path d="M222 245c16-28 71-25 84 6 10 25-10 50-39 50-25 0-43-17-45-44Z" fill="#7A3F2A"/>
-  <path d="M241 230c15-9 42-9 57 1" stroke="#D9A441" stroke-width="8" stroke-linecap="round"/>
-  <path d="M300 259c19-4 31 10 26 25-5 14-23 18-36 7" stroke="#7A3F2A" stroke-width="11" stroke-linecap="round"/>
-  <circle cx="268" cy="257" r="7" fill="#B84A39"/>
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">阿宝 Abao 主 Logo</title>
+  <desc id="desc">根据阿宝形象重绘的国潮卡通熊猫导师 Logo，包含金色圆眼镜、黑金中式长衫、竹叶与紫砂壶。</desc>
+  <defs>
+    <linearGradient id="inkRobe" x1="168" x2="486" y1="398" y2="632"><stop offset="0" stop-color="#102A43"/><stop offset="1" stop-color="#111820"/></linearGradient>
+    <linearGradient id="gold" x1="184" x2="492" y1="116" y2="578"><stop offset="0" stop-color="#F6D87A"/><stop offset=".62" stop-color="#D9A441"/><stop offset="1" stop-color="#B9892E"/></linearGradient>
+    <filter id="soft" x="-12%" y="-12%" width="124%" height="124%"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#102A43" flood-opacity=".18"/></filter>
+  </defs>
+  <g filter="url(#soft)">
+    <path d="M124 560c20-132 126-218 265-206 116 10 208 91 225 206H124Z" fill="url(#inkRobe)"/>
+    <path d="M258 396c34 30 80 45 128 42 43-3 83-20 112-48v170H258V396Z" fill="#111820"/>
+    <path d="M380 396c18 54 20 112 5 180" stroke="url(#gold)" stroke-width="18" stroke-linecap="round"/>
+    <path d="M238 472c60 45 150 58 247 22" stroke="url(#gold)" stroke-width="14" stroke-linecap="round"/>
+    <path d="M196 531c82 46 188 52 314 18" stroke="url(#gold)" stroke-width="8" stroke-linecap="round" opacity=".75"/>
+    <path d="M94 404c-2-55 35-94 86-87 46 6 81 45 87 95" stroke="#4F7D45" stroke-width="17" stroke-linecap="round"/>
+    <path d="M116 404c25-22 53-33 84-33" stroke="#4F7D45" stroke-width="10" stroke-linecap="round"/>
+    <path d="M109 382c-31-13-60-15-88-5" stroke="#4F7D45" stroke-width="11" stroke-linecap="round"/>
+    <path d="M136 366c-18-30-42-50-72-61" stroke="#4F7D45" stroke-width="11" stroke-linecap="round"/>
+    <path d="M465 436c34-57 132-50 159 12 22 50-18 100-79 100-54 0-96-39-100-99" fill="#7A3F2A"/>
+    <path d="M505 402c35-23 94-21 126 3" stroke="url(#gold)" stroke-width="15" stroke-linecap="round"/>
+    <path d="M621 470c44-18 78 19 63 56-14 34-57 42-89 16" stroke="#7A3F2A" stroke-width="20" stroke-linecap="round"/>
+    <circle cx="552" cy="458" r="13" fill="#B84A39"/>
+    <path d="M594 380c16-18 18-39 4-61" stroke="#E8C56D" stroke-width="10" stroke-linecap="round" opacity=".78"/>
+    <path d="M622 368c20-28 18-57-6-87" stroke="#E8C56D" stroke-width="10" stroke-linecap="round" opacity=".62"/>
+    <circle cx="196" cy="186" r="78" fill="#101820"/>
+    <circle cx="438" cy="186" r="78" fill="#101820"/>
+    <circle cx="320" cy="280" r="198" fill="#FFFDF6" stroke="#102A43" stroke-width="20"/>
+    <path d="M170 282c0-72 58-130 130-130h16v218H170V282Z" fill="#101820"/>
+    <path d="M338 152h18c72 0 130 58 130 130v88H338V152Z" fill="#101820"/>
+    <path d="M268 120c24-18 58-27 98-27" stroke="#102A43" stroke-width="14" stroke-linecap="round"/>
+    <path d="M242 107c16-23 38-36 68-40" stroke="#102A43" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="236" cy="282" r="68" fill="#FFFDF6" stroke="url(#gold)" stroke-width="20"/>
+    <circle cx="402" cy="282" r="68" fill="#FFFDF6" stroke="url(#gold)" stroke-width="20"/>
+    <path d="M304 282h36" stroke="url(#gold)" stroke-width="17" stroke-linecap="round"/>
+    <path d="M168 282h-18" stroke="url(#gold)" stroke-width="14" stroke-linecap="round"/>
+    <path d="M470 282h18" stroke="url(#gold)" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="244" cy="276" r="34" fill="#101820"/>
+    <circle cx="410" cy="276" r="34" fill="#101820"/>
+    <circle cx="254" cy="264" r="13" fill="#FFFFFF"/>
+    <circle cx="420" cy="264" r="13" fill="#FFFFFF"/>
+    <path d="M202 218c19-20 42-28 69-23" stroke="#101820" stroke-width="12" stroke-linecap="round"/>
+    <path d="M366 197c31-10 58-4 82 20" stroke="#101820" stroke-width="12" stroke-linecap="round"/>
+    <ellipse cx="322" cy="350" rx="36" ry="28" fill="#102A43"/>
+    <path d="M269 392c31 36 78 37 110 0" stroke="#102A43" stroke-width="17" stroke-linecap="round"/>
+    <path d="M321 377c0 18 0 30-1 44" stroke="#102A43" stroke-width="9" stroke-linecap="round"/>
+    <path d="M342 393c16 10 34 7 50-9" stroke="#B84A39" stroke-width="9" stroke-linecap="round"/>
+  </g>
 </svg>

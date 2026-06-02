@@ -1,26 +1,19 @@
 <svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">阿宝国潮社交头像</title>
-  <desc id="desc">适合社交媒体头像使用的国潮卡通阿宝品牌标识。</desc>
-  <rect width="1024" height="1024" rx="224" fill="#102A43"/>
-  <path d="M120 792c142-110 272-110 386 0 128-112 260-112 400 0" stroke="#D9A441" stroke-width="22" stroke-linecap="round" opacity=".32"/>
-  <circle cx="300" cy="286" r="126" fill="#071421"/>
-  <circle cx="724" cy="286" r="126" fill="#071421"/>
-  <circle cx="512" cy="496" r="336" fill="#FFFDF6"/>
-  <path d="M330 466c0-92 74-166 166-166h18v342H330V466Z" fill="#102A43"/>
-  <path d="M548 300h18c92 0 166 74 166 166v176H548V300Z" fill="#102A43"/>
-  <circle cx="392" cy="456" r="92" stroke="#D9A441" stroke-width="36"/>
-  <circle cx="624" cy="456" r="92" stroke="#D9A441" stroke-width="36"/>
-  <path d="M486 456h56" stroke="#D9A441" stroke-width="30" stroke-linecap="round"/>
-  <circle cx="424" cy="446" r="24" fill="#FFFDF6"/>
-  <circle cx="592" cy="446" r="24" fill="#FFFDF6"/>
-  <ellipse cx="512" cy="588" rx="44" ry="36" fill="#102A43"/>
-  <path d="M414 688c46 52 142 52 188 0" stroke="#102A43" stroke-width="38" stroke-linecap="round"/>
-  <path d="M306 782h420c58 0 104 46 104 104v58H202v-58c0-58 46-104 104-104Z" fill="#172126"/>
-  <path d="M512 780c24 78 22 154 0 228" stroke="#D9A441" stroke-width="32" stroke-linecap="round"/>
-  <path d="M354 862c92 64 212 72 350 22" stroke="#D9A441" stroke-width="24" stroke-linecap="round" opacity=".86"/>
-  <path d="M214 806c-42-76-10-138 76-144 70-4 132 36 156 98" stroke="#4F7D45" stroke-width="34" stroke-linecap="round"/>
-  <path d="M710 794c50-88 224-78 266 20 34 78-30 158-124 158-78 0-138-54-150-144Z" fill="#7A3F2A"/>
-  <path d="M770 740c48-30 134-28 180 2" stroke="#D9A441" stroke-width="28" stroke-linecap="round"/>
-  <path d="M942 842c64-16 106 32 88 82-18 46-82 58-124 20" stroke="#7A3F2A" stroke-width="34" stroke-linecap="round"/>
-  <circle cx="844" cy="830" r="23" fill="#B84A39"/>
+  <title id="title">阿宝社交头像 Logo</title><desc id="desc">阿宝圆形头像版，用于社交媒体和开放图。</desc>
+  <circle cx="512" cy="512" r="496" fill="#102A43"/><circle cx="512" cy="512" r="470" stroke="#D9A441" stroke-width="20"/>
+  <path d="M156 862c114-174 278-256 492-214 142 28 252 116 316 214v158H156V862Z" fill="#111820"/>
+  <path d="M506 650c34 104 30 202-8 294" stroke="#D9A441" stroke-width="30" stroke-linecap="round"/><path d="M242 794c152 92 340 106 574 24" stroke="#D9A441" stroke-width="22" stroke-linecap="round"/>
+  <path d="M168 702c68-70 152-100 252-86" stroke="#4F7D45" stroke-width="28" stroke-linecap="round"/>
+  <path d="M720 700c66-102 236-78 278 48 34 104-64 202-178 164-76-25-116-88-110-168Z" fill="#7A3F2A"/>
+  <path d="M784 638c58-34 138-32 190 2" stroke="#D9A441" stroke-width="28" stroke-linecap="round"/><path d="M940 760c80-30 140 40 106 104-30 58-106 66-160 20" stroke="#7A3F2A" stroke-width="36" stroke-linecap="round"/>
+  <path d="M892 590c36-54 34-108-4-162" stroke="#E8C56D" stroke-width="18" stroke-linecap="round" opacity=".75"/>
+  <circle cx="314" cy="286" r="132" fill="#071421"/><circle cx="700" cy="286" r="132" fill="#071421"/>
+  <circle cx="512" cy="430" r="314" fill="#FFFDF6"/>
+  <path d="M274 420c0-116 94-210 210-210h28v354H274V420Z" fill="#101820"/><path d="M552 210h28c116 0 210 94 210 210v144H552V210Z" fill="#101820"/>
+  <circle cx="392" cy="430" r="108" fill="#FFFDF6" stroke="#D9A441" stroke-width="32"/><circle cx="664" cy="430" r="108" fill="#FFFDF6" stroke="#D9A441" stroke-width="32"/>
+  <path d="M500 430h56" stroke="#D9A441" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="410" cy="420" r="54" fill="#101820"/><circle cx="682" cy="420" r="54" fill="#101820"/>
+  <circle cx="428" cy="400" r="20" fill="#FFFFFF"/><circle cx="700" cy="400" r="20" fill="#FFFFFF"/>
+  <path d="M336 320c34-34 78-46 132-36" stroke="#101820" stroke-width="24" stroke-linecap="round"/><path d="M600 284c60-18 112-6 156 34" stroke="#101820" stroke-width="24" stroke-linecap="round"/>
+  <ellipse cx="528" cy="548" rx="58" ry="46" fill="#102A43"/><path d="M442 630c56 62 142 62 198 0" stroke="#102A43" stroke-width="30" stroke-linecap="round"/>
 </svg>
