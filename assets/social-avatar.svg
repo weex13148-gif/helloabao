@@ -1,0 +1,26 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">阿宝国潮社交头像</title>
+  <desc id="desc">适合社交媒体头像使用的国潮卡通阿宝品牌标识。</desc>
+  <rect width="1024" height="1024" rx="224" fill="#102A43"/>
+  <path d="M120 792c142-110 272-110 386 0 128-112 260-112 400 0" stroke="#D9A441" stroke-width="22" stroke-linecap="round" opacity=".32"/>
+  <circle cx="300" cy="286" r="126" fill="#071421"/>
+  <circle cx="724" cy="286" r="126" fill="#071421"/>
+  <circle cx="512" cy="496" r="336" fill="#FFFDF6"/>
+  <path d="M330 466c0-92 74-166 166-166h18v342H330V466Z" fill="#102A43"/>
+  <path d="M548 300h18c92 0 166 74 166 166v176H548V300Z" fill="#102A43"/>
+  <circle cx="392" cy="456" r="92" stroke="#D9A441" stroke-width="36"/>
+  <circle cx="624" cy="456" r="92" stroke="#D9A441" stroke-width="36"/>
+  <path d="M486 456h56" stroke="#D9A441" stroke-width="30" stroke-linecap="round"/>
+  <circle cx="424" cy="446" r="24" fill="#FFFDF6"/>
+  <circle cx="592" cy="446" r="24" fill="#FFFDF6"/>
+  <ellipse cx="512" cy="588" rx="44" ry="36" fill="#102A43"/>
+  <path d="M414 688c46 52 142 52 188 0" stroke="#102A43" stroke-width="38" stroke-linecap="round"/>
+  <path d="M306 782h420c58 0 104 46 104 104v58H202v-58c0-58 46-104 104-104Z" fill="#172126"/>
+  <path d="M512 780c24 78 22 154 0 228" stroke="#D9A441" stroke-width="32" stroke-linecap="round"/>
+  <path d="M354 862c92 64 212 72 350 22" stroke="#D9A441" stroke-width="24" stroke-linecap="round" opacity=".86"/>
+  <path d="M214 806c-42-76-10-138 76-144 70-4 132 36 156 98" stroke="#4F7D45" stroke-width="34" stroke-linecap="round"/>
+  <path d="M710 794c50-88 224-78 266 20 34 78-30 158-124 158-78 0-138-54-150-144Z" fill="#7A3F2A"/>
+  <path d="M770 740c48-30 134-28 180 2" stroke="#D9A441" stroke-width="28" stroke-linecap="round"/>
+  <path d="M942 842c64-16 106 32 88 82-18 46-82 58-124 20" stroke="#7A3F2A" stroke-width="34" stroke-linecap="round"/>
+  <circle cx="844" cy="830" r="23" fill="#B84A39"/>
+</svg>

@@ -8,13 +8,16 @@
       name="description"
       content="阿宝致力于让天下没有复杂的学习成本，通过AI、金融与教育内容帮助更多人成长。"
     />
-    <meta name="theme-color" content="#0B1F5F" />
+    <meta name="theme-color" content="#102A43" />
     <meta property="og:title" content="阿宝｜AI时代的学习伙伴" />
     <meta
       property="og:description"
       content="阿宝致力于让天下没有复杂的学习成本，通过AI、金融与教育内容帮助更多人成长。"
     />
     <meta property="og:type" content="website" />
+    <meta property="og:image" content="assets/social-avatar.svg" />
+    <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+    <link rel="apple-touch-icon" href="assets/social-avatar.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -26,16 +29,7 @@
   <body>
     <header class="site-header" data-header>
       <a class="brand" href="#top" aria-label="阿宝首页">
-        <span class="brand-mark" aria-hidden="true">
-          <span class="ear ear-left"></span>
-          <span class="ear ear-right"></span>
-          <span class="face">
-            <span class="eye eye-left"></span>
-            <span class="eye eye-right"></span>
-            <span class="nose"></span>
-          </span>
-        </span>
-        <span class="brand-text">阿宝</span>
+        <img class="brand-logo" src="assets/logo-nav.svg" alt="阿宝 Abao" width="184" height="48" />
       </a>
 
       <button class="menu-toggle" type="button" aria-label="打开菜单" aria-expanded="false" data-menu-toggle>
@@ -45,6 +39,7 @@
 
       <nav class="site-nav" aria-label="主导航" data-nav>
         <a href="#who">阿宝是谁</a>
+        <a href="ai.html">AI学习</a>
         <a href="#world">世界观</a>
         <a href="#academy">阿宝学堂</a>
         <a href="#business">商务合作</a>
@@ -61,6 +56,7 @@
           <p class="hero-subtitle">让天下没有复杂的学习成本</p>
           <div class="hero-actions">
             <a class="button button-primary" href="#world">进入阿宝世界</a>
+            <a class="button button-gold" href="ai.html">AI学习频道</a>
             <a class="button button-secondary" href="#business">商务合作</a>
           </div>
         </div>
@@ -73,43 +69,57 @@
           </div>
           <svg class="abao-illustration" viewBox="0 0 760 760" role="img" aria-labelledby="abaoTitle abaoDesc">
             <title id="abaoTitle">阿宝熊猫学习导师插画</title>
-            <desc id="abaoDesc">一只圆润温暖的熊猫导师，手持金色竹简，身后有知识光环。</desc>
+            <desc id="abaoDesc">一只温暖智慧的国潮熊猫院长，佩戴金色圆眼镜，身穿黑金中式长衫，手持竹紫砂壶。</desc>
             <defs>
               <linearGradient id="halo" x1="0" x2="1" y1="0" y2="1">
-                <stop offset="0%" stop-color="#F5B942" stop-opacity="0.92" />
-                <stop offset="100%" stop-color="#0B1F5F" stop-opacity="0.14" />
+                <stop offset="0%" stop-color="#D9A441" stop-opacity="0.92" />
+                <stop offset="100%" stop-color="#4F7D45" stop-opacity="0.16" />
               </linearGradient>
               <linearGradient id="robe" x1="0" x2="1" y1="0" y2="1">
-                <stop offset="0%" stop-color="#123A93" />
-                <stop offset="100%" stop-color="#0B1F5F" />
+                <stop offset="0%" stop-color="#2F3A3A" />
+                <stop offset="100%" stop-color="#071421" />
+              </linearGradient>
+              <linearGradient id="goldTrim" x1="0" x2="1" y1="0" y2="1">
+                <stop offset="0%" stop-color="#F3D27A" />
+                <stop offset="100%" stop-color="#D9A441" />
               </linearGradient>
               <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
-                <feDropShadow dx="0" dy="28" stdDeviation="28" flood-color="#0B1F5F" flood-opacity="0.18" />
+                <feDropShadow dx="0" dy="28" stdDeviation="28" flood-color="#102A43" flood-opacity="0.2" />
               </filter>
             </defs>
             <circle cx="382" cy="360" r="250" fill="url(#halo)" opacity="0.52" />
+            <path d="M172 426c48-24 92-25 132-2" fill="none" stroke="#D9A441" stroke-width="10" stroke-linecap="round" opacity="0.42" />
+            <path d="M488 426c44-25 91-24 139 0" fill="none" stroke="#D9A441" stroke-width="10" stroke-linecap="round" opacity="0.42" />
             <path
               d="M172 552c42-91 127-145 229-145 105 0 184 59 224 145 14 31-8 66-42 66H214c-34 0-57-36-42-66Z"
               fill="url(#robe)"
               filter="url(#softShadow)"
             />
-            <path d="M311 441c26 35 70 57 119 57s93-22 119-57v148H311V441Z" fill="#fff" opacity="0.94" />
+            <path d="M306 444c29 35 73 55 124 55 50 0 94-20 124-55v150H306V444Z" fill="#101820" opacity="0.96" />
+            <path d="M381 443c9 42 11 92 5 151" stroke="url(#goldTrim)" stroke-width="14" stroke-linecap="round" />
+            <path d="M326 504c37 24 86 31 144 20" fill="none" stroke="url(#goldTrim)" stroke-width="9" stroke-linecap="round" opacity="0.82" />
             <circle cx="255" cy="244" r="74" fill="#071443" />
             <circle cx="505" cy="244" r="74" fill="#071443" />
             <circle cx="380" cy="275" r="184" fill="#fff" filter="url(#softShadow)" />
             <ellipse cx="302" cy="288" rx="52" ry="66" fill="#071443" transform="rotate(14 302 288)" />
             <ellipse cx="458" cy="288" rx="52" ry="66" fill="#071443" transform="rotate(-14 458 288)" />
+            <circle cx="306" cy="290" r="46" fill="none" stroke="url(#goldTrim)" stroke-width="13" />
+            <circle cx="454" cy="290" r="46" fill="none" stroke="url(#goldTrim)" stroke-width="13" />
+            <path d="M352 290h56" stroke="url(#goldTrim)" stroke-width="11" stroke-linecap="round" />
             <circle cx="318" cy="286" r="15" fill="#fff" />
             <circle cx="442" cy="286" r="15" fill="#fff" />
             <ellipse cx="380" cy="344" rx="27" ry="22" fill="#071443" />
             <path d="M344 382c18 20 56 22 76 0" fill="none" stroke="#071443" stroke-width="13" stroke-linecap="round" />
             <path d="M236 506c-30-8-67 6-82 36-9 19 4 39 26 42 35 4 65-13 84-44" fill="#071443" />
             <path d="M606 506c30-8 67 6 82 36 9 19-4 39-26 42-35 4-65-13-84-44" fill="#071443" />
-            <rect x="256" y="493" width="252" height="86" rx="28" fill="#F5B942" />
-            <path d="M303 536h158" stroke="#0B1F5F" stroke-width="12" stroke-linecap="round" opacity="0.7" />
-            <path d="M325 561h88" stroke="#0B1F5F" stroke-width="9" stroke-linecap="round" opacity="0.45" />
-            <path d="M380 120c42 0 84 12 119 35" fill="none" stroke="#F5B942" stroke-width="14" stroke-linecap="round" />
-            <path d="M284 139c20-10 43-17 67-20" fill="none" stroke="#F5B942" stroke-width="14" stroke-linecap="round" opacity="0.75" />
+            <path d="M255 521c28-10 63-3 88 21" stroke="#4F7D45" stroke-width="14" stroke-linecap="round" />
+            <path d="M280 496c22 20 34 48 36 82" stroke="#4F7D45" stroke-width="10" stroke-linecap="round" />
+            <path d="M424 522c18-38 90-42 127-8 24 23 17 62-16 78-45 21-102-6-112-54Z" fill="#7A3F2A" />
+            <path d="M456 500c21-15 68-15 88 0" stroke="#D9A441" stroke-width="10" stroke-linecap="round" />
+            <path d="M544 533c39-12 67 10 61 39-5 25-37 36-61 17" fill="none" stroke="#7A3F2A" stroke-width="16" stroke-linecap="round" />
+            <path d="M422 534c-31-13-56-5-71 21" stroke="#071443" stroke-width="16" stroke-linecap="round" />
+            <path d="M380 120c42 0 84 12 119 35" fill="none" stroke="#D9A441" stroke-width="14" stroke-linecap="round" />
+            <path d="M284 139c20-10 43-17 67-20" fill="none" stroke="#D9A441" stroke-width="14" stroke-linecap="round" opacity="0.75" />
           </svg>
         </div>
       </section>
@@ -127,11 +137,11 @@
             <h3>金融阿宝</h3>
             <p>用简单语言建立金钱、资产、风险与长期主义的基础认知。</p>
           </article>
-          <article class="feature-card reveal">
+          <a class="feature-card reveal" href="ai.html" aria-label="进入AI学习频道">
             <span class="card-icon">AI</span>
             <h3>AI阿宝</h3>
             <p>把模型、工具与提示词能力转化成人人可用的学习生产力。</p>
-          </article>
+          </a>
           <article class="feature-card reveal">
             <span class="card-icon">ED</span>
             <h3>教育阿宝</h3>
@@ -192,11 +202,11 @@
           <p>未来承载课程、社区与学习工具，服务儿童、学生、成年人和创业者。</p>
         </div>
         <div class="course-grid">
-          <article class="course-card reveal">
+          <a class="course-card reveal" href="ai.html" aria-label="查看AI课程">
             <p>01</p>
             <h3>AI课程</h3>
             <span>AI工具、模型思维、自动化与创作能力</span>
-          </article>
+          </a>
           <article class="course-card reveal">
             <p>02</p>
             <h3>金融课程</h3>

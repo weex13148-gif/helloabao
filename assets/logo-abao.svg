@@ -1,0 +1,26 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">阿宝 Abao 国潮品牌 Logo</title>
+  <desc id="desc">国潮卡通阿宝头像，金色圆眼镜、黑金中式长衫与竹紫砂壶元素。</desc>
+  <rect width="320" height="320" rx="76" fill="#F7F1E3"/>
+  <path d="M42 244C88 210 130 210 162 244C196 210 238 210 278 244" stroke="#D9A441" stroke-width="7" stroke-linecap="round" opacity=".34"/>
+  <circle cx="88" cy="92" r="42" fill="#102A43"/>
+  <circle cx="232" cy="92" r="42" fill="#102A43"/>
+  <circle cx="160" cy="150" r="108" fill="#FFFDF6" stroke="#102A43" stroke-width="18"/>
+  <path d="M96 146c0-30 23-54 52-54h8v108H96v-54Z" fill="#102A43"/>
+  <path d="M164 92h8c29 0 52 24 52 54v54h-60V92Z" fill="#102A43"/>
+  <circle cx="120" cy="142" r="31" stroke="#D9A441" stroke-width="12"/>
+  <circle cx="200" cy="142" r="31" stroke="#D9A441" stroke-width="12"/>
+  <path d="M151 142h18" stroke="#D9A441" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="130" cy="140" r="8" fill="#FFFDF6"/>
+  <circle cx="190" cy="140" r="8" fill="#FFFDF6"/>
+  <ellipse cx="160" cy="178" rx="26" ry="20" fill="#102A43"/>
+  <path d="M132 211c16 17 41 17 57 0" stroke="#102A43" stroke-width="11" stroke-linecap="round"/>
+  <path d="M94 238h132c18 0 33 15 33 33v16H61v-16c0-18 15-33 33-33Z" fill="#172126"/>
+  <path d="M160 237c7 24 7 50 0 78" stroke="#D9A441" stroke-width="10" stroke-linecap="round"/>
+  <path d="M108 265c28 20 67 25 109 9" stroke="#D9A441" stroke-width="7" stroke-linecap="round" opacity=".8"/>
+  <path d="M69 255c-13-25-3-45 24-47 22-2 43 10 51 30" stroke="#4F7D45" stroke-width="10" stroke-linecap="round"/>
+  <path d="M222 245c16-28 71-25 84 6 10 25-10 50-39 50-25 0-43-17-45-44Z" fill="#7A3F2A"/>
+  <path d="M241 230c15-9 42-9 57 1" stroke="#D9A441" stroke-width="8" stroke-linecap="round"/>
+  <path d="M300 259c19-4 31 10 26 25-5 14-23 18-36 7" stroke="#7A3F2A" stroke-width="11" stroke-linecap="round"/>
+  <circle cx="268" cy="257" r="7" fill="#B84A39"/>
+</svg>
