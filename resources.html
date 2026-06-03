@@ -49,76 +49,142 @@
     </header>
 
     <main id="top">
-      <section class="hero section resource-hero">
+      <section class="hero section resource-hero web3-hero">
         <div class="hero-copy reveal">
-          <p class="eyebrow">Abao Resource Center</p>
-          <h1>资源中心<br />Web3工具</h1>
-          <p class="hero-subtitle">阿宝把常用工具入口整理成清晰导航，帮助你更谨慎、更系统地理解数字资产与Web3生态。</p>
+          <p class="eyebrow">Abao Web3 Library</p>
+          <h1>Web3资源中心<br />从好奇到会用</h1>
+          <p class="hero-subtitle">阿宝把钱包、交易平台、支付工具和安全认知整理成一张学习地图。先理解，再行动。</p>
           <div class="hero-actions">
-            <a class="button button-primary" href="#web3-tools">查看工具</a>
-            <a class="button button-secondary" href="index.html#contact">联系阿宝</a>
+            <a class="button button-primary" href="#web3-path">开始学习路径</a>
+            <a class="button button-secondary" href="#web3-tools">查看工具入口</a>
           </div>
         </div>
 
-        <div class="ai-visual reveal" aria-label="Web3资源中心视觉">
-          <div class="ai-console">
-            <div class="console-bar">
-              <span></span>
-              <span></span>
-              <span></span>
-            </div>
-            <div class="console-line strong">Abao.tools / Web3</div>
-            <div class="console-line">交易平台 → 钱包入口 → 支付工具 → 风险认知</div>
-            <div class="console-grid">
-              <span>Exchange</span>
-              <span>Wallet</span>
-              <span>Card</span>
-              <span>Risk</span>
-            </div>
+        <div class="web3-map reveal" aria-label="Web3资源中心视觉地图">
+          <div class="map-orbit"></div>
+          <div class="map-node node-wallet">钱包</div>
+          <div class="map-node node-safety">安全</div>
+          <div class="map-node node-exchange">平台</div>
+          <div class="map-node node-card">支付</div>
+          <div class="map-core">
+            <span>阿宝</span>
+            <strong>Web3</strong>
           </div>
+        </div>
+      </section>
+
+      <section class="section intro" id="web3-path">
+        <div class="section-heading reveal">
+          <p class="eyebrow">Learning Path</p>
+          <h2>阿宝的Web3四步地图</h2>
+          <p>把复杂入口拆成可理解的顺序，适合新手从概念、身份、工具到风险逐步建立认知。</p>
+        </div>
+        <div class="web3-path-grid">
+          <article class="path-card reveal">
+            <span>01</span>
+            <h3>先认识数字身份</h3>
+            <p>理解钱包、助记词、地址、公链与DApp，知道每一步在做什么。</p>
+          </article>
+          <article class="path-card reveal">
+            <span>02</span>
+            <h3>再认识交易平台</h3>
+            <p>学习账户、安全验证、资产划转与基础市场信息，保持谨慎操作。</p>
+          </article>
+          <article class="path-card reveal">
+            <span>03</span>
+            <h3>学会安全检查</h3>
+            <p>确认官网、权限、链接、授权与风险提示，不把速度放在安全之前。</p>
+          </article>
+          <article class="path-card reveal">
+            <span>04</span>
+            <h3>最后连接真实场景</h3>
+            <p>从支付、社区、链上应用到长期学习，建立自己的Web3工具箱。</p>
+          </article>
         </div>
       </section>
 
       <section class="section intro" id="web3-tools">
         <div class="section-heading reveal">
-          <p class="eyebrow">Web3 Tools</p>
-          <h2>Web3工具</h2>
+          <p class="eyebrow">Curated Tools</p>
+          <h2>Web3工具入口</h2>
           <p>以下入口仅作为学习与工具导航，适合在充分理解风险后按需查看。</p>
         </div>
-        <div class="tool-grid">
-          <article class="tool-card reveal">
+        <div class="tool-grid web3-tool-grid">
+          <article class="tool-card web3-tool-card reveal">
             <span class="card-icon">BG</span>
+            <p class="tool-tag">Exchange</p>
             <h3>Bitget 交易所</h3>
-            <p>适合关注数字资产交易与市场工具的用户。</p>
-            <a class="button button-primary" href="#" data-link="bitget" target="_blank" rel="noopener noreferrer">进入 Bitget</a>
+            <p>适合关注数字资产交易、行情观察与基础市场工具的用户。</p>
+            <div class="tool-actions">
+              <a class="button button-primary" href="#" data-link="bitget" target="_blank" rel="noopener noreferrer">进入 Bitget</a>
+              <a class="button button-secondary" href="#risk-notice">先看风险</a>
+            </div>
           </article>
-          <article class="tool-card reveal">
+          <article class="tool-card web3-tool-card reveal">
             <span class="card-icon">OK</span>
+            <p class="tool-tag">Exchange</p>
             <h3>OKX 欧易</h3>
-            <p>全球数字资产交易平台与 Web3 生态入口。</p>
-            <a class="button button-primary" href="#" data-link="okx" target="_blank" rel="noopener noreferrer">进入 OKX</a>
+            <p>全球数字资产交易平台与Web3生态入口，可用于学习平台型工具。</p>
+            <div class="tool-actions">
+              <a class="button button-primary" href="#" data-link="okx" target="_blank" rel="noopener noreferrer">进入 OKX</a>
+              <a class="button button-secondary" href="#risk-notice">先看风险</a>
+            </div>
           </article>
-          <article class="tool-card reveal">
+          <article class="tool-card web3-tool-card reveal">
             <span class="card-icon">W3</span>
+            <p class="tool-tag">Wallet</p>
             <h3>OKX Wallet</h3>
-            <p>Web3 钱包入口，适合体验链上资产与去中心化应用。</p>
-            <a class="button button-primary" href="#" data-link="okxWallet" target="_blank" rel="noopener noreferrer">打开钱包</a>
+            <p>Web3钱包入口，适合体验链上资产、DApp和去中心化身份。</p>
+            <div class="tool-actions">
+              <a class="button button-primary" href="#" data-link="okxWallet" target="_blank" rel="noopener noreferrer">打开钱包</a>
+              <a class="button button-secondary" href="#safety-check">安全清单</a>
+            </div>
           </article>
-          <article class="tool-card reveal">
+          <article class="tool-card web3-tool-card reveal">
             <span class="card-icon">U</span>
+            <p class="tool-tag">Payment</p>
             <h3>Bitget U卡</h3>
-            <p>数字资产支付与消费工具入口。</p>
-            <a class="button button-primary" href="#" data-link="bitgetCard" target="_blank" rel="noopener noreferrer">了解 U卡</a>
+            <p>数字资产支付与消费工具入口，适合了解Web3连接日常场景。</p>
+            <div class="tool-actions">
+              <a class="button button-primary" href="#" data-link="bitgetCard" target="_blank" rel="noopener noreferrer">了解 U卡</a>
+              <a class="button button-secondary" href="#risk-notice">先看风险</a>
+            </div>
           </article>
         </div>
       </section>
 
-      <section class="section risk-section">
+      <section class="section safety-section" id="safety-check">
+        <div class="section-heading reveal">
+          <p class="eyebrow">Safety Checklist</p>
+          <h2>使用前的安全清单</h2>
+          <p>阿宝建议你每次打开Web3工具前，都先完成这几项检查。</p>
+        </div>
+        <div class="safety-grid">
+          <article class="safety-card reveal">
+            <strong>核对官网</strong>
+            <span>从可信入口访问，避免搜索广告和陌生短链接。</span>
+          </article>
+          <article class="safety-card reveal">
+            <strong>保护助记词</strong>
+            <span>不截图、不上传、不发送给任何人，任何索要助记词的页面都应离开。</span>
+          </article>
+          <article class="safety-card reveal">
+            <strong>确认授权</strong>
+            <span>看清网络、合约、金额和权限，避免盲目授权。</span>
+          </article>
+          <article class="safety-card reveal">
+            <strong>小额测试</strong>
+            <span>第一次操作先用小额验证流程，不用全部资产试错。</span>
+          </article>
+        </div>
+      </section>
+
+      <section class="section risk-section" id="risk-notice">
         <div class="risk-panel reveal">
           <p class="eyebrow">Risk Notice</p>
           <h2>风险提示</h2>
           <p>
-            数字资产相关产品具有较高风险，价格波动较大。阿宝仅提供学习与工具导航信息，不构成投资建议。请根据自身风险承受能力谨慎决策。
+            数字资产相关产品具有较高风险，价格波动较大。阿宝仅提供学习与工具导航信息，不构成投资建议、理财建议或收益承诺。请根据自身风险承受能力谨慎决策。
           </p>
         </div>
       </section>

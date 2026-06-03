@@ -3,6 +3,7 @@ const links = {
   okx: "https://www.promooboost.com/join/BIFUCOIN1688",
   okxWallet: "https://web3.okx.com/join/BIFUCOIN1688",
   bitgetCard: "https://web3.bitget.com/share/49vNBE?inviteCode=JbNvjn",
+  email: "mailto:weex13148@gmail.com",
   telegram: "https://t.me/bifucoin1688",
   twitter: "https://x.com/weex1688",
 };
