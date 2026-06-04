@@ -11,6 +11,8 @@
 * 创建 Codex 每日工作汇报模板。
 * 创建 Notion 同步占位说明。
 * 创建根目录 `AGENTS.md` 工作规则。
+* 重构阿宝官网首页为“IP + 学习型网站”。
+* 增加学习路径、每日小知识、阿宝世界地图和 IP 化商务合作区。
 
 ## 2. 修改的文件
 
@@ -31,6 +33,9 @@
 * `/workspace/11_codex_daily_reports/README.md`
 * `/workspace/11_codex_daily_reports/daily_report_template.md`
 * `/workspace/11_codex_daily_reports/2026-06-04_initial_workspace_report.md`
+* `index.html`
+* `style.css`
+* `/workspace/04_website_dev_log/2026-06-04_abao_homepage_redesign.md`
 
 ## 3. GitHub 状态
 
@@ -42,9 +47,9 @@
 
 ## 4. 网站状态
 
-* 本地运行：未检查到网站运行环境
+* 本地运行：已通过 `http://127.0.0.1:4173/` 验证
 * 部署状态：未检查到部署配置
-* 发现的问题：未检查到网站运行环境
+* 发现的问题：浏览器截图接口超时，但页面加载、响应式、锚点和交互验证通过
 
 ## 5. Notion / 资料整理
 
@@ -53,10 +58,10 @@
 
 ## 6. 明日建议
 
-* 初始化或切换到真实 GitHub 仓库目录。
-* 连接 GitHub remote。
 * 在 Notion 中创建 11 个对应页面或数据库。
 * 准备 Notion API Token 和页面 ID，用于后续自动同步。
+* 继续补充 AI、金融、儿童启蒙和创业成长路线的详情页。
+* 检查线上部署效果，并决定是否将本次首页重构提交推送。
 
 ## 7. Codex 备注
 
